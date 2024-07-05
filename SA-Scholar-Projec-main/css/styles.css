@@ -1,0 +1,125 @@
+body{
+  font-family:"montserrat";
+}
+#title{
+background-color:#ADD8E6;
+}
+.container-fluid{
+  padding:3% 15%;
+}
+h1{
+  font-family: "Montserrat-black";
+  font-size: 3rem;
+  line-height: 1.5;
+  color:#22577E;
+}
+h3{
+  font-family: "Montserrat-bold";
+  color:#22577E;
+}
+h2{
+  font-family: "Montserrat-black"
+  font-size: 3rem;
+  Line-height: 1.5;
+}
+p{
+  color:#8f8f8f;
+}
+.image-s{
+  width:500px;
+  height: 400px;
+  border-radius:50%;
+}
+.navbar{
+  padding:0 0 4.5rem;
+}
+.navbar-brand
+{
+ font-family:ubuntu;
+ font-size:2.5rem;
+ font-weight: bold;
+}
+.nav-item{
+  padding:0 18px;
+}
+.nav-link{
+  font-family: Montserrat-light;
+  color:#22577E;
+}
+#features{
+  background-color:#EFFFFD;
+  padding: 7% 15%;
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+.icon{
+  color:#22577E;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color:#ADD8E6;
+}
+#pictures{
+  padding: 7% 15%;
+  text-align: center;
+  background-color:#ADD8E6;
+  color:#22577E;
+
+}
+.UCT-Logo{
+  width:200px;
+  height: 200px;
+  border-radius:50%;
+}
+.STB-Logo{
+  width:200px;
+  height: 200px;
+  border-radius:50%;
+}
+.Wits-Logo{
+  width:200px;
+  height: 200px;
+  border-radius:50%;
+}
+.UKZN-Logo{
+  width:200px;
+  height: 200px;
+  border-radius:50%;
+}
+.DUT-Logo{
+  width:200px;
+  height: 200px;
+  border-radius:50%;
+}
+.NW-Logo{
+  width:200px;
+  height: 200px;
+  border-radius:50%;
+}
+.J-Logo{
+  width:200px;
+  height: 200px;
+  border-radius:50%;
+#press{
+  padding: 7% 15%;
+  text-align: center;
+  background-color:#ADD8E6;
+  color:#22577E;
+}
+.Varsity-row{
+  background-color:#ADD8E6;
+}
+  #footer{
+    padding: 7% 15%;
+    text-align: center;
+    margin-top:60px;
+    margin-bottom: 50px;
+}
+#cta{
+  padding: 7% 15%;
+  text-align: center;
+  margin-top:50px;
+  margin-bottom: 50px;
+}

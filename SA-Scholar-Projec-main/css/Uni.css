@@ -1,0 +1,119 @@
+.class-for-Uni{
+  color:#40514E;
+  font-family: 'Merriweather', serif;
+}
+#Universities{
+  background-color:#ADD8E6;
+  padding: 7% 15%;
+}
+p{
+  line-height: 2;
+}
+.red-L{
+  color:Red;
+  font-family: Montserrat-black;
+  font-size:180.5%;
+
+}
+h1{
+  color:#22577E;
+  font-size: 562.5%;
+  margin-top: 50px;
+  font-family: "Montserrat-black";
+}
+h2{
+  text-align: center;
+}
+.Varsity-row{
+  /*width:90%;*/
+  margin-top:50px;
+  margin-bottom:50px;
+  text-align: left;
+  /*padding:7% 15%;*/
+}
+.UCT-pic{
+  width:100%;
+  float: right;
+  margin-left:30px;
+  border-radius: 50%;
+  margin-top:20px;
+  margin-bottom: 50px;
+}
+.STB-pic{
+  width:100%;
+  float: right;
+  margin-top:10px;
+  margin-bottom: 50px;
+  margin-left:30px;
+  border-radius: 50%;
+  margin-top:20px;
+  margin-bottom: 50px;
+}
+.Wits-pic{
+  width:100%;
+  float: right;
+  margin-left:30px;
+  border-radius: 60%;
+  margin-top:20px;
+  margin-bottom: 50px;
+}
+.UKZN-pic{
+  width:100%;
+  float: right;
+  margin-left:30px;
+  border-radius: 60%;
+  margin-top:20px;
+  margin-bottom: 50px;
+}
+.NMU-pic{
+  width:100%;
+  float: right;
+  margin-left:30px;
+  border-radius: 60%;
+  margin-top:20px;
+  margin-bottom: 50px;
+}
+.UP-pic{
+  width:100%;
+  float: right;
+  margin-left:30px;
+  border-radius: 60%;
+  margin-top:20px;
+  margin-bottom: 50px;
+}
+.RD-pic{
+  width:100%;
+  float: right;
+  margin-left:30px;
+  border-radius: 60%;
+  margin-top:20px;
+  margin-bottom: 50px;
+}
+.UJ-pic{
+  width:100%;
+  float: right;
+  margin-left:30px;
+  border-radius: 60%;
+  margin-top:20px;
+  margin-bottom: 50px
+}
+.W-pic{
+  width:100%;
+  float: right;
+  margin-left:30px;
+  border-radius: 60%;
+  margin-top:20px;
+  margin-bottom: 50px
+}
+
+.Links{
+  text-align: left;
+  padding: 5%;
+}
+.icon{
+  color:white;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color:black;
+}
