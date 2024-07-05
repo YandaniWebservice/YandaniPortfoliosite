@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kitty</title>
+    <link rel="stylesheet" href="Styling/Styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class ="First">
+        <nav>
+            <a href ="HomePage.html"><img src ="Images/Kity.png"class="Logo"></a>
+            <ul>
+                <li><a href ="HomePage.html">Home</a>
+                </li>
+                <li> <a href="Biography.html">Biography</a></li>
+                    <li>
+                        <div class="dropdown">
+                        <button class="drop-button">More</button>
+                        <div class="links">
+                        <a href ="K-Gallery.html" >Gallery</a>
+                        <a href ="SocialHandles.html">Contact kitty</a>
+                    </div>
+                        </div>
+                    </li>
+            </ul>
+        </nav>
+    </div>
+    <div class = "Second">
+        <h2 class ="Introduction"> <span id="Hello">Hello</span>, this is my cat's diary. <br>
+             He loves visitors, so you are welcome to browse freely on his website.
+            </h2>
+        <img src ="Images/Cat.png" class= "Cat">
+    </div>
+    <!--Animation sourced from: https://codepen.io/imran-coder/pen/GRQQqZz -->
+    <div class="animation">
+        <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+        viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+        <defs>
+        <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+        </defs>
+        <g class="animate">
+        <use xlink:href="#gentle-wave" x="48" y="0" fill="rgba(255,255,255,0.7" />
+        <use xlink:href="#gentle-wave" x="48" y="3" fill="rgba(255,255,255,0.5)" />
+        <use xlink:href="#gentle-wave" x="48" y="5" fill="rgba(255,255,255,0.3)" />
+        <use xlink:href="#gentle-wave" x="48" y="7" fill="#fff" />
+        </g>
+        </svg>
+        </div>
+    <div class="bottom-container">
+        <a class="Social" href="https://www.instagram.com/mvuyo_yandani/">Instagram</a>
+        <a class="Social" href="https://twitter.com/sa_yamco/">Twitter</a>
+        <a class="Social" href="https://github.com/YandaniMvuyo">Github</a>
+          <p class="copyright">©  Yandani 2023</p>
+      </div>
+</body>
+</html>
